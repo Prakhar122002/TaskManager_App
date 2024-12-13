@@ -1,4 +1,4 @@
 || TASK MANAGER APP ||
 
-Deployment Link -: "task-manager-app-silk.vercel.app"
+Deployment Link -: "https://task-manager-app-silk.vercel.app/"
  
